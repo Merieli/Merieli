@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Merieli
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Front-End
+- 📫 How to reach me merieli.dev@gmail.com
