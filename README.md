@@ -1,4 +1,4 @@
-## Hi, I’m @Merieli
+## Hi, I’m Merieli Manzano
 👀 I’m interested in Web development
 🌱 I’m currently learning Front-End
  <div>
