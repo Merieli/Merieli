@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Merieli
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-End
-- 📫 How to reach me merieli.dev@gmail.com
-
+## Hi, I’m @Merieli
+👀 I’m interested in Web development
+🌱 I’m currently learning Front-End
  <div>
   <a href="https://github.com/merieli">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=merieli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
