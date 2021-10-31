@@ -1,19 +1,7 @@
 ## Hi, I’m Merieli Manzano
 👀 I’m interested in Web development
 🌱 I’m currently learning Front-End
- <div>
-  <a href="https://github.com/merieli">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=merieli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merieli&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Meri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Meri-JQuery" height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img align="center" alt="Meri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Meri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Meri-CSS" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-  
+
 ##
  
 <div> 
