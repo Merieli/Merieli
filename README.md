@@ -1,7 +1,6 @@
 ## Hi, I’m Merieli Manzano 👋,
-<p>I've always been passionate about technology and learning, I graduated in Computer Technician at ETEC in 2011, where I learned Logic, Programming Analysis, MySQL Database, Java and .NET and was also elected the best student in the class. Due to some factors, I ended up graduating in Technical Design in Civil Construction and later graduated in Architecture and Urbanism by FACCAT in 2018.</p>
-<br>
-<p>The proof that the love for technology was always present in me is that as an architect I learned Python to automate my projects. And then my biggest passion got louder and in 2021 I migrated to another area and started my studies for Web Front-End Development, which I'm currently working on and improving myself.</p>
+<p>I have always been passionate about technology and learning, I graduated in "Informatics Technician" at ETEC in 2011, where I learned Logic, Programming Analysis, MySQL Database, Java and .NET and was also elected the best student in the class. Due to some factors, I ended up graduating in "Technical in Civil Construction Design" and later graduated in "Architecture and Urbanism" by FACCAT in 2018.</p>
+<p>The technology in me always spoke louder, so much so that as an architect, I learned Python to automate my projects. And then in 2021 I migrated to another area and started my studies in Front-End Web Development, which I'm currently working on and improving myself.</p>
 
 ## 🚀 Technologies
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" height="28px"> - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" height="28px">
