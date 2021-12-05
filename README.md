@@ -2,8 +2,9 @@
 👀 I’m interested in Web development
 🌱 I’m currently learning Front-End
 
-## 🚀 Currently Learning
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"> - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"> - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+## 🚀 Technologies
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"> - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"> - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"> - <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank" /> - <img src="https://img.icons8.com/ios/50/000000/jquery.png"/> - <img src="https://img.icons8.com/color/48/000000/sass.png"/> - <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/>
+Template Engine - Twig
 
 ## Where to find me 
 <div height="28px"> 
