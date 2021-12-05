@@ -7,8 +7,7 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" height="28px" alt="HTML5"> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" height="28px" alt="CSS3">
 <br>
-<img src="https://img.icons8.com/color/48/000000/git.png" target="_blank" height="28px" alt="Git"> - <img src="https://img.icons8.com/ios/50/000000/jquery.png" height="28px" alt="JQuery"> - <img src="https://img.icons8.com/color/48/000000/sass.png" height="28px" alt="SASS"> - <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" height="28px" alt="Gulp">
-<br> - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_twig_icon_130109.png" target="_blank" height="28px" alt="TWIG template engine for PHP">
+<img src="https://img.icons8.com/color/48/000000/git.png" target="_blank" height="28px" alt="Git"> - <img src="https://img.icons8.com/ios/50/000000/jquery.png" height="28px" alt="JQuery"> - <img src="https://img.icons8.com/color/48/000000/sass.png" height="28px" alt="SASS"> - <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" height="28px" alt="Gulp"> - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_twig_icon_130109.png" target="_blank" height="28px" alt="TWIG template engine for PHP">
 
 ## Where to find me 
 <div height="28px"> 
