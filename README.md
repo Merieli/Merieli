@@ -3,8 +3,8 @@
 <p>But the technology in me always spoke louder, as an architect, I learned Python to automate my projects and everything I did had a side that pulled me towards technology. And then, in 2021 I assumed my true passion, migrated to Technology and started my studies in Front-End Web Development, which I'm currently working on and improving myself!</p>
 
 ## 🚀 Technologies
-| Programming language | Markup Language and Style | Libraries | Frameworks |
-| -------------------- | ------------------------- | --------- | ---------- |
+| Programming language | Markup Language, Style and Extension | Libraries | Frameworks |
+| -------------------- | ------------------------------------ | --------- | ---------- |
 | <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" height="28px" alt="Python"> - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" height="28px" alt="JavaScript"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" height="28px" alt="HTML5"> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" height="28px" alt="CSS3"> - <img src="https://img.icons8.com/color/48/000000/sass.png" height="28px" alt="SASS"> | <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" height="28px" alt="JQuery"> | <img src="https://img.icons8.com/color/50/000000/bootstrap.png" height="28px" alt="Bootstrap"> - Tailwind |
 
 | Versioning system | Workflow Automation | Template Engines |
