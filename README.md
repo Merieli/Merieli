@@ -1,5 +1,6 @@
 ## Hi, I’m Merieli Manzano 👋,
 <p>My goal is to specialize in <strong>Front-End</strong> Web Development technologies.</p>
+<p>Find out what I'm currently studying by looking at my repositories 😉</p>
 
 ## 🚀 Technologies
 | Programming language | Markup Language, Style and Extension | Libraries | Frameworks |
