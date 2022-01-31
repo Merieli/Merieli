@@ -1,6 +1,5 @@
 ## Hi, I’m Merieli Manzano 👋,
-<p>I have always been passionate about technology and learning, I graduated in <strong>Informatics Technician</strong> in 2011. For some reasons, I ended up going to the construction area and graduated in Civil Construction Design Technician and later graduated in Architecture and Urbanism in 2018.</p>
-<p>But the technology in me always spoke louder, as an architect, I learned Python to automate my projects and everything I did had a side that pulled me towards technology. And then, in 2021 I assumed my true passion, migrated to Technology and started my studies in Front-End Web Development, which I'm currently working on and improving myself!</p>
+<p>My goal is to specialize in <strong>Front-End</strong> Web Development technologies.</p>
 
 ## 🚀 Technologies
 | Programming language | Markup Language, Style and Extension | Libraries | Frameworks |
