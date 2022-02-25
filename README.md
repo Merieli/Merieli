@@ -19,8 +19,8 @@ class Skills extends Desenvolvedor {
   💌 Se precisa de ajuda ou quer alguem pra estudar/codar com você: ⤵️
 </p>
 <p align="left">
-  <a href="https://t.me/merielimanzano" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+  <a href="https://t.me/merielimanzano" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>    
   </a>
   
   <a href="mailto:merieli.dev@gmail.com" alt="Gmail">
