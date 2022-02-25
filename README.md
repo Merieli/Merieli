@@ -10,9 +10,9 @@ class Skills extends Desenvolvedor {
   languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'Python'];
   libraries  = ['Jquery'];
   frameworks = ['Bootstrap', 'Tailwind'];
-  workflow-automation = ['Gulp'];
-  template-engine = ['Twig'];
-  versioning-system = ['Git'];
+  workflowAutomation = ['Gulp'];
+  templateEngine = ['Twig'];
+  versioningSystem = ['Git'];
 }
 ```
 <p align="left">
