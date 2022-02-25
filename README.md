@@ -1,18 +1,37 @@
-## Hi, I’m Merieli Manzano 👋,
-<div height="28px"> 
-  <a href="https://instagram.com/merieli.manzano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:merieli.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/merielialbergardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://t.me/merielimanzano" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" target="_blank" height="28px"></a>  
-</div>
-<p>My goal is to specialize in <strong>Front-End</strong> Web Development technologies.</p>
-<p>Find out what I'm currently studying by looking at my repositories 😉</p>
+```javascript
+import Desenvolvedor from 'Merieli';
 
-## 🚀 Technologies
-| Programming language | Markup Language, Style and Extension | Libraries | Frameworks |
-| -------------------- | ------------------------------------ | --------- | ---------- |
-| <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" height="28px" alt="Python"> - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" height="28px" alt="JavaScript"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" height="28px" alt="HTML5"> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" height="28px" alt="CSS3"> - <img src="https://img.icons8.com/color/48/000000/sass.png" height="28px" alt="SASS"> | <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" height="28px" alt="JQuery"> | <img src="https://img.icons8.com/color/50/000000/bootstrap.png" height="28px" alt="Bootstrap"> - Tailwind |
+class AboutMe extends Desenvolvedor {
+  nome     = 'Merieli Manzano'';
+  area    = 'Front-End Web Development';
+  trabalho  = 'Tray';
+  moradia = 'Tupã-SP';
+}
 
-| Versioning system | Workflow Automation | Template Engines |
-| ----------------- | ------------------- | ---------------- |
-| <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank" height="28px" alt="Git"> | <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" height="28px" alt="Gulp"> | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_twig_icon_130109.png" target="_blank" height="28px" alt="TWIG template engine for PHP"> |
+class Skills extends Desenvolvedor {
+  languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'Python'];
+  libraries  = ['Jquery'];
+  frameworks = ['Bootstrap', 'Tailwind'];
+  workflow-automation = ['Gulp'];
+  template-engine = ['Twig'];
+  versioning-system = ['Git'];
+}
+```
+<p align="left">
+  💌 Adoro ajudar, e se quiser alguem pra estudar com você: ⤵️
+</p>
+<p align="left">
+  <a href="https://t.me/merielimanzano" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+  </a>
+  
+  <a href="mailto:merieli.dev@gmail.com" alt="Gmail">
+     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
+  </a>
+  
+  <a href="https://instagram.com/merieli.manzano" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
+  <a href="https://www.linkedin.com/in/merielialbergardi" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
