@@ -1,7 +1,7 @@
 ```javascript
-import Desenvolvedor from 'Merieli';
+import Desenvolvedora from 'Merieli';
 
-class AboutMe extends Desenvolvedor {
+class AboutMe extends Desenvolvedora {
   nome     = 'Merieli Manzano'';
   area    = 'Front-End Web Development';
   trabalho  = 'Tray';
