@@ -4,8 +4,6 @@ import Desenvolvedora from 'Merieli';
 class AboutMe extends Desenvolvedora {
   nome     = 'Merieli Manzano'';
   area    = 'Front-End Web Development';
-  trabalho  = 'Tray';
-  moradia = 'Tupã-SP';
 }
 
 class Skills extends Desenvolvedor {
