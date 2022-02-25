@@ -16,7 +16,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 <p align="left">
-  💌 Se precisa de ajuda ou quer alguem pra estudar/codar com você: ⤵️
+ Quer conversar, estudar ou codar comigo: ⤵️
 </p>
 <p align="left">
   <a href="https://t.me/merielimanzano" alt="Telegram">
