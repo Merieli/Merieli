@@ -15,9 +15,8 @@ class Skills extends Desenvolvedor {
   versioningSystem = ['Git'];
 }
 ```
-<p align="left">
- Quer conversar, estudar ou codar comigo: ⤵️
-</p>
+
+ #### Quer conversar, estudar ou codar comigo: ⤵️
 <p align="left">
   <a href="https://t.me/merielimanzano" alt="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>    
