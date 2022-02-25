@@ -2,7 +2,6 @@
 import Desenvolvedora from 'Merieli';
 
 class AboutMe extends Desenvolvedora {
-  nome = 'Merieli Manzano'';
   area = 'Front-End Web Development';
 }
 
