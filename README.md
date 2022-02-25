@@ -5,7 +5,7 @@ class AboutMe extends Desenvolvedora {
   area = 'Front-End Web Development';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Desenvolvedora {
   languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'Python'];
   libraries  = ['Jquery'];
   frameworks = ['Bootstrap', 'Tailwind'];
