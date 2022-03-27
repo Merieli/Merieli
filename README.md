@@ -2,7 +2,7 @@
 import Desenvolvedora from 'Merieli';
 
 class AboutMe extends Desenvolvedora {
-  area = 'Front-End Web Development';
+  expertise = 'Front-End Web Development';
 }
 
 class Skills extends Desenvolvedora {
