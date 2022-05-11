@@ -8,7 +8,7 @@ class AboutMe extends Desenvolvedora {
 class Skills extends Desenvolvedora {
   languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
   libraries  = ['Jquery'];
-  frameworks = ['Bootstrap', 'Tailwind'];
+  frameworks = ['VueJS', 'Bootstrap', 'Tailwind'];
   workflowAutomation = ['Gulp', 'Webpack'];
   templateEngine = ['Twig'];
   versioningSystem = ['Git'];
