@@ -1,11 +1,11 @@
 ```javascript
 import Desenvolvedora from 'Merieli';
 
-class AboutMe extends Desenvolvedora {
+class AboutMe extends Developer {
   expertise = 'Front-End Web Development';
 }
 
-class Skills extends Desenvolvedora {
+class Skills extends Developer {
   technologies = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
   libraries  = ['Jquery'];
   frameworks = ['VueJS', 'Bootstrap', 'Tailwind'];
