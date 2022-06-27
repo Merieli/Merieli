@@ -1,5 +1,5 @@
 ```javascript
-import Desenvolvedora from 'Merieli';
+import Developer from 'Merieli';
 
 class AboutMe extends Developer {
   expertise = 'Front-End Web Development';
