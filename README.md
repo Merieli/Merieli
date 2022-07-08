@@ -6,7 +6,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  technologies = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
+  technologies = ['Javascript', 'HTML', 'CSS', 'SASS', 'TypeScript', 'NodeJS', 'Python'];
   libraries  = ['Jquery'];
   frameworks = ['VueJS', 'Bootstrap', 'Tailwind'];
   workflowAutomation = ['Gulp', 'Webpack'];
