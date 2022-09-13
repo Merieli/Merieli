@@ -21,7 +21,7 @@ class Skills extends Developer {
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>    
   </a>
   
-  <a href="mailto:merieli.dev@gmail.com" alt="Gmail">
+  <a href="mailto:merieli.dev+github@gmail.com" alt="Gmail">
      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
   </a>
   
