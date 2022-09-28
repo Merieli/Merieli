@@ -1,10 +1,6 @@
 ```javascript
 import Developer from 'Merieli';
 
-class AboutMe extends Developer {
-  expertise = 'Front-End Web Development';
-}
-
 class Skills extends Developer {
   technologies = ['Javascript', 'HTML', 'CSS', 'SASS', 'TypeScript', 'NodeJS', 'Python'];
   libraries  = ['Jquery'];
@@ -15,7 +11,7 @@ class Skills extends Developer {
 }
 ```
 
-#### Para contato e conteúdo Front-End:
+#### Contato e conteúdo Front-End:
 <p align="left">
   <a href="https://merieli-dev.gitbook.io/blog/" alt="Blog" align="middle">
   <img src="https://img.icons8.com/bubbles/50/000000/id-brunette-lady.png"/>
