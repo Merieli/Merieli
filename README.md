@@ -2,11 +2,8 @@
 import Developer from 'Merieli';
 
 class Skills extends Developer {
-  technologies = ['Javascript', 'HTML', 'CSS', 'SASS', 'TypeScript', 'NodeJS', 'Python'];
-  libraries  = ['Jquery'];
-  frameworks = ['VueJS', 'Bootstrap', 'Tailwind'];
-  workflowAutomation = ['Gulp', 'Webpack'];
-  templateEngine = ['Twig'];
+  technologies = ['VueJS', 'TypeScript', 'Tailwind', 'SASS', 'Javascript', 'HTML', 'CSS', 'Bootstrap', 'NodeJS', 'Python'];
+  general = ['Vite', 'Gulp', 'Webpack', 'Jquery', 'Twig'];
   versioningSystem = ['Git'];
 }
 ```
