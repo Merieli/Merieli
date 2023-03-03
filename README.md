@@ -1,8 +1,8 @@
 I'm a front-end web developer who loves to learn and share learning. I work at Tray ecommerce platform.
 
-🦄 **Technologies:**: Vue.js, Typescript, Sass, Jest, JS, HTML, CSS
+🦄 **Technologies:** Vue.js, Typescript, Sass, Jest, JS, HTML, CSS
 
-💼 **Tools**: Vite, Git
+💼 **Tools:** Vite, Git
 
 
 #### Contato:
