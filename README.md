@@ -7,4 +7,4 @@ I'm a front-end web developer who loves to learn and share learning. I work at T
 <img src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" width="18px"/> Jest, 
 <img src="https://vitest.dev/logo.svg" width="18px"/> Vitest
 
-🎤 Content Creator (articles, speeches, videos)
+🎤 Content Creator (articles, speeches, lives)
