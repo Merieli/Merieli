@@ -1,4 +1,4 @@
-I'm a front-end web developer who loves to learn and share learning. I work at Tray ecommerce platform.
+I'm a web developer who loves to learn and share learning. I work at Tray ecommerce platform.
 
 🦄 **Technologies:**  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="18px"/> Vue.js, 
 <img src="https://img.icons8.com/color/48/000000/typescript.png" width="18px"/> TypeScript, 
